@@ -1,0 +1,1133 @@
+:     System Idle Process
+PID:            0
+ :     Services
+ :       0
+:         8 
+
+ :     System
+PID:            4
+ :     Services
+ :       0
+:         132 
+
+ :     Registry
+PID:            108
+ :     Services
+ :       0
+:         60448 
+
+ :     smss.exe
+PID:            352
+ :     Services
+ :       0
+:         972 
+
+ :     csrss.exe
+PID:            508
+ :     Services
+ :       0
+:         5188 
+
+ :     wininit.exe
+PID:            720
+ :     Services
+ :       0
+:         6048 
+
+ :     csrss.exe
+PID:            728
+ :     Console
+ :       1
+:         5476 
+
+ :     winlogon.exe
+PID:            828
+ :     Console
+ :       1
+:         10880 
+
+ :     services.exe
+PID:            984
+ :     Services
+ :       0
+:         8996 
+
+ :     lsass.exe
+PID:            992
+ :     Services
+ :       0
+:         25300 
+
+ :     svchost.exe
+PID:            580
+ :     Services
+ :       0
+:         26012 
+
+ :     fontdrvhost.exe
+PID:            604
+ :     Console
+ :       1
+:         29620 
+
+ :     fontdrvhost.exe
+PID:            612
+ :     Services
+ :       0
+:         2968 
+
+ :     svchost.exe
+PID:            712
+ :     Services
+ :       0
+:         15216 
+
+ :     svchost.exe
+PID:            912
+ :     Services
+ :       0
+:         7764 
+
+ :     dwm.exe
+PID:            1004
+ :     Console
+ :       1
+:         60472 
+
+ :     svchost.exe
+PID:            1204
+ :     Services
+ :       0
+:         8756 
+
+ :     svchost.exe
+PID:            1228
+ :     Services
+ :       0
+:         14504 
+
+ :     svchost.exe
+PID:            1244
+ :     Services
+ :       0
+:         15820 
+
+ :     svchost.exe
+PID:            1252
+ :     Services
+ :       0
+:         10388 
+
+ :     svchost.exe
+PID:            1308
+ :     Services
+ :       0
+:         12832 
+
+ :     svchost.exe
+PID:            1356
+ :     Services
+ :       0
+:         5880 
+
+ :     svchost.exe
+PID:            1444
+ :     Services
+ :       0
+:         10360 
+
+ :     svchost.exe
+PID:            1524
+ :     Services
+ :       0
+:         8392 
+
+ :     svchost.exe
+PID:            1556
+ :     Services
+ :       0
+:         7300 
+
+ :     svchost.exe
+PID:            1600
+ :     Services
+ :       0
+:         7080 
+
+ :     WUDFHost.exe
+PID:            1692
+ :     Services
+ :       0
+:         7052 
+
+ :     NVDisplay.Container.exe
+PID:            1772
+ :     Services
+ :       0
+:         18028 
+
+ :     svchost.exe
+PID:            1800
+ :     Services
+ :       0
+:         11784 
+
+ :     svchost.exe
+PID:            1836
+ :     Services
+ :       0
+:         10072 
+
+ :     svchost.exe
+PID:            1876
+ :     Services
+ :       0
+:         5932 
+
+ :     svchost.exe
+PID:            1936
+ :     Services
+ :       0
+:         12588 
+
+ :     svchost.exe
+PID:            1952
+ :     Services
+ :       0
+:         5528 
+
+ :     svchost.exe
+PID:            1964
+ :     Services
+ :       0
+:         7380 
+
+ :     svchost.exe
+PID:            1976
+ :     Services
+ :       0
+:         9144 
+
+ :     Memory Compression
+PID:            1860
+ :     Services
+ :       0
+:         70440 
+
+ :     svchost.exe
+PID:            2060
+ :     Services
+ :       0
+:         8432 
+
+ :     svchost.exe
+PID:            2100
+ :     Services
+ :       0
+:         7040 
+
+ :     svchost.exe
+PID:            2124
+ :     Services
+ :       0
+:         7868 
+
+ :     svchost.exe
+PID:            2232
+ :     Services
+ :       0
+:         6588 
+
+ :     NVDisplay.Container.exe
+PID:            2492
+ :     Console
+ :       1
+:         53952 
+
+ :     svchost.exe
+PID:            2536
+ :     Services
+ :       0
+:         25392 
+
+ :     svchost.exe
+PID:            2836
+ :     Services
+ :       0
+:         13000 
+
+ :     svchost.exe
+PID:            2884
+ :     Services
+ :       0
+:         7584 
+
+ :     svchost.exe
+PID:            3056
+ :     Services
+ :       0
+:         8696 
+
+ :     QHActiveDefense.exe
+PID:            908
+ :     Services
+ :       0
+:         46696 
+
+ :     svchost.exe
+PID:            1864
+ :     Services
+ :       0
+:         6344 
+
+ :     svchost.exe
+PID:            2176
+ :     Services
+ :       0
+:         9232 
+
+ :     svchost.exe
+PID:            2696
+ :     Services
+ :       0
+:         18448 
+
+ :     svchost.exe
+PID:            3168
+ :     Services
+ :       0
+:         7352 
+
+ :     svchost.exe
+PID:            3244
+ :     Services
+ :       0
+:         7392 
+
+ :     svchost.exe
+PID:            3332
+ :     Services
+ :       0
+:         16504 
+
+ :     svchost.exe
+PID:            3348
+ :     Services
+ :       0
+:         9084 
+
+ :     svchost.exe
+PID:            3404
+ :     Services
+ :       0
+:         10628 
+
+ :     spoolsv.exe
+PID:            3460
+ :     Services
+ :       0
+:         11856 
+
+ :     svchost.exe
+PID:            3552
+ :     Services
+ :       0
+:         17304 
+
+ :     svchost.exe
+PID:            3588
+ :     Services
+ :       0
+:         7652 
+
+ :     svchost.exe
+PID:            3992
+ :     Services
+ :       0
+:         8556 
+
+ :     svchost.exe
+PID:            4068
+ :     Services
+ :       0
+:         15200 
+
+ :     svchost.exe
+PID:            4076
+ :     Services
+ :       0
+:         25372 
+
+ :     svchost.exe
+PID:            4092
+ :     Services
+ :       0
+:         22852 
+
+ :     svchost.exe
+PID:            3444
+ :     Services
+ :       0
+:         9624 
+
+ :     MemuService.exe
+PID:            3636
+ :     Services
+ :       0
+:         4864 
+
+ :     svchost.exe
+PID:            3568
+ :     Services
+ :       0
+:         6128 
+
+ :     nvcontainer.exe
+PID:            3836
+ :     Services
+ :       0
+:         35716 
+
+ :     svchost.exe
+PID:            3892
+ :     Services
+ :       0
+:         19164 
+
+ :     svchost.exe
+PID:            4116
+ :     Services
+ :       0
+:         5168 
+
+ :     svchost.exe
+PID:            4152
+ :     Services
+ :       0
+:         5492 
+
+ :     svchost.exe
+PID:            4344
+ :     Services
+ :       0
+:         11248 
+
+ :     rundll32.exe
+PID:            4588
+ :     Console
+ :       1
+:         5812 
+
+ :     svchost.exe
+PID:            4880
+ :     Services
+ :       0
+:         5420 
+
+ :     QHWatchdog.exe
+PID:            5184
+ :     Services
+ :       0
+:         4636 
+
+ :     svchost.exe
+PID:            5376
+ :     Services
+ :       0
+:         19456 
+
+ :     svchost.exe
+PID:            5696
+ :     Services
+ :       0
+:         19312 
+
+ :     nvcontainer.exe
+PID:            5928
+ :     Console
+ :       1
+:         25352 
+
+ :     sihost.exe
+PID:            5952
+ :     Console
+ :       1
+:         39168 
+
+ :     nvcontainer.exe
+PID:            5976
+ :     Console
+ :       1
+:         68376 
+
+ :     svchost.exe
+PID:            5988
+ :     Console
+ :       1
+:         25320 
+
+ :     svchost.exe
+PID:            6044
+ :     Console
+ :       1
+:         29016 
+
+ :     taskhostw.exe
+PID:            6108
+ :     Console
+ :       1
+:         19576 
+
+ :     svchost.exe
+PID:            5004
+ :     Services
+ :       0
+:         7076 
+
+ :     ctfmon.exe
+PID:            5768
+ :     Console
+ :       1
+:         19944 
+
+ :     explorer.exe
+PID:            5836
+ :     Console
+ :       1
+:         160924 
+
+ :     svchost.exe
+PID:            6172
+ :     Services
+ :       0
+:         16252 
+
+ :     svchost.exe
+PID:            6580
+ :     Console
+ :       1
+:         26676 
+
+ :     NVIDIA Web Helper.exe
+PID:            7020
+ :     Console
+ :       1
+:         15656 
+
+ :     conhost.exe
+PID:            7032
+ :     Console
+ :       1
+:         704 
+
+ :     GoogleCrashHandler.exe
+PID:            7104
+ :     Services
+ :       0
+:         212 
+
+ :     GoogleCrashHandler64.exe
+PID:            7112
+ :     Services
+ :       0
+:         204 
+
+ :     nvsphelper64.exe
+PID:            5816
+ :     Console
+ :       1
+:         11704 
+
+ :     NVIDIA Share.exe
+PID:            7172
+ :     Console
+ :       1
+:         61916 
+
+ :     NVIDIA Share.exe
+PID:            7336
+ :     Console
+ :       1
+:         43048 
+
+ :     NVIDIA Share.exe
+PID:            7416
+ :     Console
+ :       1
+:         72776 
+
+ :     StartMenuExperienceHost.exe
+PID:            7776
+ :     Console
+ :       1
+:         63388 
+
+ :     svchost.exe
+PID:            7976
+ :     Services
+ :       0
+:         8444 
+
+ :     SearchApp.exe
+PID:            7244
+ :     Console
+ :       1
+:         249772 
+
+ :     SearchIndexer.exe
+PID:            5200
+ :     Services
+ :       0
+:         42132 
+
+ :     TextInputHost.exe
+PID:            8812
+ :     Console
+ :       1
+:         41500 
+
+ :     svchost.exe
+PID:            9580
+ :     Services
+ :       0
+:         11680 
+
+ :     svchost.exe
+PID:            8600
+ :     Services
+ :       0
+:         11624 
+
+ :     ApplicationFrameHost.exe
+PID:            8648
+ :     Console
+ :       1
+:         24824 
+
+ :     UserOOBEBroker.exe
+PID:            1032
+ :     Console
+ :       1
+:         8672 
+
+ :     svchost.exe
+PID:            6180
+ :     Console
+ :       1
+:         17752 
+
+ :     audiodg.exe
+PID:            2564
+ :     Services
+ :       0
+:         12844 
+
+ :     svchost.exe
+PID:            1544
+ :     Services
+ :       0
+:         14568 
+
+ :     svchost.exe
+PID:            9572
+ :     Services
+ :       0
+:         11208 
+
+ :     SgrmBroker.exe
+PID:            3876
+ :     Services
+ :       0
+:         7612 
+
+ :     svchost.exe
+PID:            10000
+ :     Services
+ :       0
+:         10400 
+
+ :     svchost.exe
+PID:            10688
+ :     Services
+ :       0
+:         7352 
+
+ :     WmiPrvSE.exe
+PID:            11244
+ :     Services
+ :       0
+:         8900 
+
+ :     SearchApp.exe
+PID:            10016
+ :     Console
+ :       1
+:         412104 
+
+ :     taskhostw.exe
+PID:            6096
+ :     Console
+ :       1
+:         7512 
+
+ :     svchost.exe
+PID:            11032
+ :     Services
+ :       0
+:         5352 
+
+ :     Video.UI.exe
+PID:            8692
+ :     Console
+ :       1
+:         1684 
+
+ :     RuntimeBroker.exe
+PID:            8592
+ :     Console
+ :       1
+:         7124 
+
+ :     svchost.exe
+PID:            1576
+ :     Services
+ :       0
+:         11908 
+
+ :     dllhost.exe
+PID:            10468
+ :     Console
+ :       1
+:         11912 
+
+ :     CompPkgSrv.exe
+PID:            8352
+ :     Console
+ :       1
+:         8344 
+
+ :     svchost.exe
+PID:            5448
+ :     Services
+ :       0
+:         5932 
+
+ :     svchost.exe
+PID:            972
+ :     Services
+ :       0
+:         14384 
+
+ :     smartscreen.exe
+PID:            8544
+ :     Console
+ :       1
+:         40572 
+
+ :     svchost.exe
+PID:            8244
+ :     Services
+ :       0
+:         9908 
+
+ :     ShellExperienceHost.exe
+PID:            10740
+ :     Console
+ :       1
+:         43168 
+
+ :     OBUpdateService.exe
+PID:            4528
+ :     Services
+ :       0
+:         10292 
+
+ :     svchost.exe
+PID:            10968
+ :     Services
+ :       0
+:         10564 
+
+ :     WmiPrvSE.exe
+PID:            8404
+ :     Services
+ :       0
+:         14432 
+
+ :     rsSyncSvc.exe
+PID:            428
+ :     Services
+ :       0
+:         16960 
+
+ :     rsWSC.exe
+PID:            1628
+ :     Services
+ :       0
+:         22772 
+
+ :     rsClientSvc.exe
+PID:            392
+ :     Services
+ :       0
+:         6500 
+
+ :     rsEngineSvc.exe
+PID:            5552
+ :     Services
+ :       0
+:         158840 
+
+ :     setup14733955.exe
+PID:            3196
+ :     Console
+ :       1
+:         23992 
+
+ :     notepad.exe
+PID:            5408
+ :     Console
+ :       1
+:         2420 
+
+ :     rsHelper.exe
+PID:            10348
+ :     Console
+ :       1
+:         35656 
+
+ :     notepad.exe
+PID:            8680
+ :     Console
+ :       1
+:         2420 
+
+ :     notepad.exe
+PID:            3392
+ :     Console
+ :       1
+:         2420 
+
+ :     svchost.exe
+PID:            10300
+ :     Services
+ :       0
+:         9992 
+
+ :     taskhostw.exe
+PID:            8960
+ :     Console
+ :       1
+:         15688 
+
+ :     RuntimeBroker.exe
+PID:            6680
+ :     Console
+ :       1
+:         8076 
+
+ :     dllhost.exe
+PID:            13172
+ :     Services
+ :       0
+:         11220 
+
+ :     svchost.exe
+PID:            14076
+ :     Services
+ :       0
+:         7412 
+
+ :     rsAppUI.exe
+PID:            12064
+ :     Console
+ :       1
+:         131844 
+
+ :     rsAppUI.exe
+PID:            2976
+ :     Console
+ :       1
+:         93956 
+
+ :     rsAppUI.exe
+PID:            12704
+ :     Console
+ :       1
+:         42744 
+
+ :     rsAppUI.exe
+PID:            2088
+ :     Console
+ :       1
+:         89516 
+
+ :     rsAppUI.exe
+PID:            14140
+ :     Console
+ :       1
+:         84272 
+
+ :     SearchProtocolHost.exe
+PID:            2036
+ :     Services
+ :       0
+:         8900 
+
+ :     SearchFilterHost.exe
+PID:            12740
+ :     Services
+ :       0
+:         7380 
+
+ :     rsAppUI.exe
+PID:            9576
+ :     Console
+ :       1
+:         90272 
+
+ :     RobloxPlayerBeta.exe
+PID:            2152
+ :     Console
+ :       1
+:         2242552 
+
+ :     TrustedInstaller.exe
+PID:            13376
+ :     Services
+ :       0
+:         7796 
+
+ :     TiWorker.exe
+PID:            12512
+ :     Services
+ :       0
+:         11316 
+
+ :     svchost.exe
+PID:            12596
+ :     Services
+ :       0
+:         19824 
+
+ :     GameBarPresenceWriter.exe
+PID:            7916
+ :     Console
+ :       1
+:         7264 
+
+ :     svchost.exe
+PID:            3704
+ :     Services
+ :       0
+:         10440 
+
+ :     1707587149083-Vegax_v4.exe
+PID:            1184
+ :     Console
+ :       1
+:         5840 
+
+ :     backgroundTaskHost.exe
+PID:            9856
+ :     Console
+ :       1
+:         26068 
+
+ :     svchost.exe
+PID:            4464
+ :     Services
+ :       0
+:         7704 
+
+ :     WmiPrvSE.exe
+PID:            9220
+ :     Services
+ :       0
+:         15844 
+
+ :     1707587149083-Vegax_v4.exe
+PID:            3360
+ :     Console
+ :       1
+:         50396 
+
+ :     WmiPrvSE.exe
+PID:            10864
+ :     Services
+ :       0
+:         12164 
+
+ :     cmd.exe
+PID:            12320
+ :     Console
+ :       1
+:         4792 
+
+ :     cmd.exe
+PID:            3516
+ :     Console
+ :       1
+:         4796 
+
+ :     cmd.exe
+PID:            5600
+ :     Console
+ :       1
+:         4952 
+
+ :     conhost.exe
+PID:            11352
+ :     Console
+ :       1
+:         12652 
+
+ :     cmd.exe
+PID:            11796
+ :     Console
+ :       1
+:         4796 
+
+ :     conhost.exe
+PID:            11316
+ :     Console
+ :       1
+:         12680 
+
+ :     conhost.exe
+PID:            13828
+ :     Console
+ :       1
+:         12660 
+
+ :     cmd.exe
+PID:            13032
+ :     Console
+ :       1
+:         4792 
+
+ :     conhost.exe
+PID:            9340
+ :     Console
+ :       1
+:         12648 
+
+ :     conhost.exe
+PID:            5672
+ :     Console
+ :       1
+:         12664 
+
+ :     cmd.exe
+PID:            5304
+ :     Console
+ :       1
+:         4932 
+
+ :     cmd.exe
+PID:            12084
+ :     Console
+ :       1
+:         4948 
+
+ :     cmd.exe
+PID:            12164
+ :     Console
+ :       1
+:         4920 
+
+ :     conhost.exe
+PID:            13736
+ :     Console
+ :       1
+:         12664 
+
+ :     cmd.exe
+PID:            9760
+ :     Console
+ :       1
+:         4928 
+
+ :     conhost.exe
+PID:            5320
+ :     Console
+ :       1
+:         12668 
+
+ :     conhost.exe
+PID:            1420
+ :     Console
+ :       1
+:         12660 
+
+ :     conhost.exe
+PID:            13996
+ :     Console
+ :       1
+:         12660 
+
+ :     conhost.exe
+PID:            11172
+ :     Console
+ :       1
+:         12640 
+
+ :     svchost.exe
+PID:            6008
+ :     Services
+ :       0
+:         7304 
+
+ :     WMIC.exe
+PID:            1036
+ :     Console
+ :       1
+:         11520 
+
+ :     WMIC.exe
+PID:            3480
+ :     Console
+ :       1
+:         11840 
+
+ :     tasklist.exe
+PID:            14176
+ :     Console
+ :       1
+:         9236 
+
+ :     tasklist.exe
+PID:            10680
+ :     Console
+ :       1
+:         9204 
+
+ :     tasklist.exe
+PID:            5384
+ :     Console
+ :       1
+:         9004 
+
+ :     powershell.exe
+PID:            11788
+ :     Console
+ :       1
+:         29036 
+
+ :     tasklist.exe
+PID:            7664
+ :     Console
+ :       1
+:         8280 
+
+ :     WMIC.exe
+PID:            13892
+ :     Console
+ :       1
+:         10520 
+
+ :     tasklist.exe
+PID:            756
+ :     Console
+ :       1
+:         6744
